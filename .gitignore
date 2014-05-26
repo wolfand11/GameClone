@@ -5,3 +5,5 @@ TheGreatPaperAdventure/Temp
 FlappyBird/Library
 FlappyBird/ProjectSettings
 *.sln
+*.userprefs
+*.csproj
