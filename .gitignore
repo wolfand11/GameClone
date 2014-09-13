@@ -1,13 +1,3 @@
-SplashyFish/Library
-SplashyFish/Temp
-TheGreatPaperAdventure/Library
-TheGreatPaperAdventure/Temp
-FlappyBird/Library
-FlappyBird/ProjectSettings
-*.sln
-*.userprefs
-*.csproj
-
 # =============== #
 # Unity generated #
 # =============== #
